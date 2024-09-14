@@ -20,7 +20,7 @@ selected_img_quality = st.sidebar.selectbox(
 img_quality = img_dict[selected_img_quality]
 
 yt_url = st.text_input(
-    "Paste YouTube URL", "https://www.youtube.com/watch?v=39HP_sRRcfQ"
+    "Paste YouTube URL", "https://www.youtube.com/watch?v=PJq3z0ej0vo"
 )
 
 
